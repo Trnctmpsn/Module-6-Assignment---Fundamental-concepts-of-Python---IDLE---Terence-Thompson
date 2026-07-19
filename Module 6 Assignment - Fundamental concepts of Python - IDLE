@@ -1,0 +1,7 @@
+Prompt the sentence
+set the "s" "c" "d" variable and print a sentence
+>>> c = "cats " 
+>>> d = "dogs. "
+>>> s = "It is raining " + c + "and "  +  d
+>>> print(s)
+It is raining cats and dogs.
